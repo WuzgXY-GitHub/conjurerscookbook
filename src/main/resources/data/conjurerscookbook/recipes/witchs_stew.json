@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:nether_wart"
+        },
+        {
+            "item": "minecraft:phantom_membrane"
+        },
+        {
+            "item": "minecraft:red_mushroom"
+        },
+        {
+            "item": "conjurerscookbook:mandrake_root"
+        },
+        {
+            "item": "minecraft:rabbit_foot"
+        },
+        {
+            "item": "minecraft:slime_ball"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+    "item": "conjurerscookbook:witchs_stew"
+}
+}

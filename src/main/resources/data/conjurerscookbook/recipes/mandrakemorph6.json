@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:green_dye"
+        },
+        {
+            "item": "conjurerscookbook:bottledmandrake"
+        },
+        {
+            "item": "minecraft:egg"
+        }
+    ],
+    "result": {
+        "item": "minecraft:slime_ball",
+        "count": 1
+    }
+}

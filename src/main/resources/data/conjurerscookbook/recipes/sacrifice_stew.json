@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        {
+            "item": "conjurerscookbook:mandrake_root"
+        },
+        {
+            "item": "minecraft:spider_eye"
+        },
+        {
+            "item": "minecraft:poisonous_potato"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+    "item": "conjurerscookbook:sacrifice_stew"
+}
+}

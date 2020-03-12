@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stone_bricks"
+        },
+        {
+            "item": "conjurerscookbook:bottledmandrake"
+        },
+        {
+            "item": "minecraft:spider_eye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:infested_stone_bricks",
+        "count": 1
+    }
+}

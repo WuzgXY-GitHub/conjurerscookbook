@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:chorus_fruit"
+        },
+        {
+            "item": "conjurerscookbook:bottledmandrake"
+        },
+        {
+            "item": "minecraft:dragon_breath"
+        }
+    ],
+    "result": {   "item": "minecraft:dragon_breath",
+        "count": 2
+    }
+}

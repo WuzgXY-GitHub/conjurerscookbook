@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gold_nugget"
+        },
+        {
+            "item": "minecraft:bone"
+        },
+        {
+            "item": "minecraft:nether_wart"
+        },
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "conjurerscookbook:mandrake_root"
+        },
+        {
+            "item": "minecraft:bone_meal"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+    "item": "conjurerscookbook:undead_delicacy"
+}
+}

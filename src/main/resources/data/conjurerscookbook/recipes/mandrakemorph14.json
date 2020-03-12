@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:nether_brick"
+        },
+        {
+            "item": "conjurerscookbook:bottledmandrake"
+        },
+        {
+            "item": "minecraft:sand"
+        }
+    ],
+    "result": {
+        "item": "minecraft:soul_sand",
+        "count": 1
+    }
+}

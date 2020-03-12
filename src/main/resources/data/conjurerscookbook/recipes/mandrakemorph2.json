@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gold_nugget"
+        },
+        {
+            "item": "conjurerscookbook:bottledmandrake"
+        },
+        {
+            "item": "minecraft:experience_bottle"
+        }
+    ],
+    "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 2
+    }
+}

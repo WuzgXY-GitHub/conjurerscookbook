@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:acacia_sapling"
+        },
+        {
+            "item": "conjurerscookbook:bottledmandrake"
+        },
+        {
+            "item": "minecraft:jungle_leaves"
+        }
+    ],
+    "result": {
+        "item": "minecraft:jungle_sapling",
+        "count": 1
+    }
+}

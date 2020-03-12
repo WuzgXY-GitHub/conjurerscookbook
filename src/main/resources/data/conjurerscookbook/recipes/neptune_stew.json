@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:nether_wart"
+        },
+        {
+            "item": "minecraft:tropical_fish"
+        },
+        {
+            "item": "minecraft:cooked_cod"
+        },
+        {
+            "item": "minecraft:kelp"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "item": "conjurerscookbook:neptune_stew"
+    }
+}

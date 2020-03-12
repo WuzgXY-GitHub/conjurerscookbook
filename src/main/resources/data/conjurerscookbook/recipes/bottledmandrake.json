@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "NCN",
+    " G "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:water_bucket"
+    },
+    "N": {
+      "item": "minecraft:nether_wart"
+    },
+    "C": {
+      "item": "conjurerscookbook:mandrake_root"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "conjurerscookbook:bottledmandrake"
+  }
+}
