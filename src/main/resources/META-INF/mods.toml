@@ -1,25 +1,25 @@
 modLoader="javafml"
 loaderVersion="[28,)"
-issueTrackerURL="https://github.com/thinkverse/extended-foods/issues"
+issueTrackerURL="https://github.com/"
 
 [[mods]]
-    modId="extendedfoods"
+    modId="conjurerscookbook"
     version="${file.jarVersion}"
-    displayName="Extended Foods"
-    displayURL="https://thinkverse.dev/extended-foods"
-    updateJSONURL="https://thinkverse.dev/extended-foods/update"
-    credits="Clownvin, HarryTechRevs, SilentChaos512, Champion Ash5357, Draco18s & Boy132"
-    authors="Thinkverse"
-    description='''More foods with vanilla flavour.'''
+    displayName="Conjurer's Cookbook"
+    displayURL="https://github.com/"
+    updateJSONURL="https://github.com/"
+    credits="CosmicParticl"
+    authors="CosmicParticl"
+    description='''Magical food for your enjoyment!'''
 
-[[dependencies.extendedfoods]]
+[[dependencies.conjurerscookbook]]
     modId="forge"
     mandatory=true
     versionRange="[28,)"
     ordering="NONE"
     side="BOTH"
 
-[[dependencies.extendedfoods]]
+[[dependencies.conjurerscookbook]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.14.4]"
