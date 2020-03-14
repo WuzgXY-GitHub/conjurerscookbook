@@ -1,0 +1,13 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "itemGroup.extendedfoods": "Conjurer's Cookbook",
+
+  "item.extendedfoods.bamboo_curry": "Sweet Bamboo Curry",
+  "item.extendedfoods.berry_cream": "Tasty Berry Cream",
+  "item.extendedfoods.cake": "Enchanted Chocolate Cake",
+  "item.extendedfoods.cookie_tin": "Magic Cookie Tin",
+  "item.extendedfoods.chorus": "Chorus Cupcake"
+}
