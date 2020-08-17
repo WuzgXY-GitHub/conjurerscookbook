@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "conjurerscookbook:bottledmandrake"
+        },
+        {
+            "item": "minecraft:cod"
+        },
+        {
+            "item": "minecraft:bucket"
+        },
+        {
+            "item": "minecraft:prismarine_shard"
+        }
+    ],
+    "result": {
+        "item": "minecraft:cod_bucket",
+        "count": 1
+    }
+}

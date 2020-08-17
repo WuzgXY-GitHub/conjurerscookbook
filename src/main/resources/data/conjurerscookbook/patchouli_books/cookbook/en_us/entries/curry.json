@@ -1,0 +1,17 @@
+{
+    "name": "Sweet Bamboo Curry",
+    "icon": "minecraft:bamboo",
+    "category": "basic",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Bamboo, when properly cooked with nether wart and sugar, can make an appetizing curry that not only satisfies your hunger, but also boosts your speed for a short time."
+        },
+
+{
+	"type": "crafting",
+"recipe":"conjurerscookbook:bamboo_curry",
+"text":"Gourmet race"
+}
+    ]
+}

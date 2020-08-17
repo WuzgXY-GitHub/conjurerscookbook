@@ -1,0 +1,8 @@
+{
+	"name": "Cookbook of Conorius",
+	"landing_text": "This tome will bestow upon you my finest recipes and cooking techiques! I, Conorius, shall be your guide to this new world of enchanted food!",
+	"book_texture":"patchouli:textures/gui/book_purple.png",
+	"model":"conjurerscookbook:cookbook",
+	"show_progress":"false",
+	"version": 2
+}

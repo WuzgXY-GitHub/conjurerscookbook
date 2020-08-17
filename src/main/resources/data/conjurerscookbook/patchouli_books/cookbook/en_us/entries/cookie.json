@@ -1,0 +1,17 @@
+{
+    "name": "Magic Cookie Tin",
+    "icon": "minecraft:cookie",
+    "category": "basic",
+    "pages": [
+        {
+            "type": "text",
+            "text": "This mystical box of cookies will bestow a handful of beneficial effects when eaten. Each effect only has a chance to be applied, so if you are unlucky, you may get none at all!"
+        },
+
+{
+	"type": "crafting",
+"recipe":"conjurerscookbook:cookie_tin",
+"text":"These ones won't run away"
+}
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "E. Choco. Cake",
+    "icon": "minecraft:cocoa_beans",
+    "category": "basic",
+    "pages": [
+        {
+            "type": "text",
+            "text": "This rich and decadent delicacy will fill your entire hunger bar when eaten, but as a side effect, will inflict nasty weakness and slowness. Perhaps washing it down with some milk would be a wise idea."
+        },
+
+{
+	"type": "crafting",
+"recipe":"conjurerscookbook:cake",
+"text":"Appetite of a People-Pleaser"
+}
+    ]
+}

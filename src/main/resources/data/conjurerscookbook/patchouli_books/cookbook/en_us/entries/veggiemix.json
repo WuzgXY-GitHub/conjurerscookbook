@@ -1,0 +1,17 @@
+{
+    "name": "Roasted Veggie Salad",
+    "icon": "minecraft:beetroot",
+    "category": "mandrake",
+    "pages": [
+        {
+            "type": "text",
+            "text": "A healthy meal composed of some common root vegetables. The mandrake really brings out the eyesight-enhancing effects of the carrots."
+        },
+
+{
+	"type": "crafting",
+"recipe":"conjurerscookbook:veggie_mix",
+"text":"Lower than low hanging"
+}
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Chorus Cupcake",
+    "icon": "minecraft:chorus_fruit",
+    "category": "basic",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Chorus Fruit has an undeniably unique taste, but thanks to its tendency to pop when heated, trying to work it into a dish is aggravating, to say the least. Undeterred, I've persisted and have managed to make quite the dessert out of them. These tiny treats, while less filling than ordinary chorus fruit, grants the eater levitation for a short period of time. Very easy to produce in large quantities!"
+        },
+
+{
+	"type": "crafting",
+"recipe":"conjurerscookbook:chorus",
+"text":"Volare!"
+}
+    ]
+}

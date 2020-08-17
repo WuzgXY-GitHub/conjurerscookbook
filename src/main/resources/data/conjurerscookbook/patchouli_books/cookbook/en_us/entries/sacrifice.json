@@ -1,0 +1,17 @@
+{
+    "name": "Stew of Sacrifice",
+    "icon": "minecraft:poisonous_potato",
+    "category": "mandrake",
+    "pages": [
+        {
+            "type": "text",
+            "text": "This meal is not for the faint of heart. While it amplifies your physical strength, it also afflicts you with a nasty illness. I'd recommend this only if you value firepower over your safety."
+        },
+
+{
+	"type": "crafting",
+"recipe":"conjurerscookbook:sacrifice_stew",
+"text":"Poison Mind"
+}
+    ]
+}

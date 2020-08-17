@@ -1,0 +1,17 @@
+{
+    "name": "Tasty Berry Cream",
+    "icon": "minecraft:sweet_berries",
+    "category": "basic",
+    "pages": [
+        {
+            "type": "text",
+            "text": "This light dessert will restore a little health when eaten, similar to a basic potion of healing."
+        },
+
+{
+	"type": "crafting",
+"recipe":"conjurerscookbook:berry_cream",
+"text":"Spin in circles while holding"
+}
+    ]
+}

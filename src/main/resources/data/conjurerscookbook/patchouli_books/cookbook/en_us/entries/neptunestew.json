@@ -1,0 +1,17 @@
+{
+    "name": "Neptune's Stew",
+    "icon": "minecraft:kelp",
+    "category": "mandrake",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Have an affinity for the ocean? This hearty stew will grant the eater the grace and elegance of a dolphin for a short period of time."
+        },
+
+{
+	"type": "crafting",
+"recipe":"conjurerscookbook:neptune_stew",
+"text":"A Feast for Thessal"
+}
+    ]
+}

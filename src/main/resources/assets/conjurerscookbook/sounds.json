@@ -1,0 +1,9 @@
+{
+  "mandrake_scream": {
+    "category": "block",
+    "subtitle": "Mandrake Root screams",
+    "sounds": [
+      "conjurerscookbook:mandrake_scream"
+    ]
+  }
+}

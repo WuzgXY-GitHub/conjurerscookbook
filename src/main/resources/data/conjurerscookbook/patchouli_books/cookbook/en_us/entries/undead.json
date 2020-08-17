@@ -1,0 +1,17 @@
+{
+    "name": "Undead Delicacy",
+    "icon": "minecraft:rotten_flesh",
+    "category": "mandrake",
+    "pages": [
+        {
+            "type": "text",
+            "text": "This concoction may be unappetizing, but it has the power to revitalize you completely, bringing you back to full health. (I make no guarantees on the health of your stomach, however!)"
+        },
+
+{
+	"type": "crafting",
+"recipe":"conjurerscookbook:undead_delicacy",
+"text":"Let me guess. Fate of the Undead, right?"
+}
+    ]
+}

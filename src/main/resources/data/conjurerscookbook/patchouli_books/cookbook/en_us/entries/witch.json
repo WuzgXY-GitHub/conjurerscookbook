@@ -1,0 +1,17 @@
+{
+    "name": "Witch's Soup",
+    "icon": "minecraft:red_mushroom",
+    "category": "mandrake",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Forgot your broom at home? Is there an annoying mountain you need to scale? Never fear! With this meal, you'll be able to soar above anything with an enormous leap! (Extended flight is not possible without more complex enchantments, sadly) "
+        },
+
+{
+	"type": "crafting",
+"recipe":"conjurerscookbook:witchs_stew",
+"text":"The Witches' Ball ~ Magus"
+}
+    ]
+}

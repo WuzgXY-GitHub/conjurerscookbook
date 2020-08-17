@@ -1,0 +1,24 @@
+{
+    "name": "Mandrake Basics",
+    "icon": "conjurerscookbook:mandrake_seeds",
+    "category": "mandrake",
+    "pages": [
+        {
+            "type": "text",
+            "text": "While Nether Wart is all fine and good, its powers can only go so far. The taste gets old after a while, too. Never fear, for there are many more magical crops out there for you to cook with! My personal favorite is Mandrake root, a plant any witch worth their ritual salt should be familar with. "
+        },
+      {
+        "type": "text",
+        "text": "You may be wondering: Seriously, Conorius? Eating mandrake? Are you trying to kill me? While I'm sure you are familiar with the deadliness of raw mandrake, I assure you that its use in my recipes is perfectly safe."
+      },
+{
+            "type": "text",
+            "text": "Being quite the volatile plant, precision is necessary when preparing dishes with it. Its innate chaotic magic can also be of your benefit, as it can amplify the latent magic power in many other substances without needing complex enchantments. For beginners or for those who have misplaced their introductory arcane textbooks, I have included a diagram of the creation of mandrake seeds on the next page. An enchantment this simple can be done on any old workbench."
+        },
+{
+	"type": "crafting",
+"recipe":"conjurerscookbook:mandrake_seeds",
+  "text":"Watch out for the screams"
+}
+    ]
+}

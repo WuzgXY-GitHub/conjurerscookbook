@@ -1,0 +1,35 @@
+{
+    "name": "Simple Conjuration",
+    "icon": "conjurerscookbook:bottledmandrake",
+    "category": "mandrake",
+    "pages": [
+        {
+            "type": "text",
+            "text": "While this is, strictly speaking, not cooking related, I found it notable enough to be included. During my attempts to create a mandrake-based beverage, I found that the mixture I made had the effects of a simple summoning spell."
+        },
+      {
+        "type": "text",
+        "text": "Using bottled mandrake, as shown on the following page, you can transmute simple items into others. While I personally have little interest in alchemy, I had never seen such properties of mandrake documented before, and felt the need to pass on this knowledge."
+      },
+      {
+        "type": "crafting",
+        "recipe":"conjurerscookbook:bottledmandrake",
+        "text":"Warning: Do not drink"
+      },
+      {
+      "type": "crafting",
+      "recipe":"conjurerscookbook:mandrakemorph1",
+      "text":"I found this one to be particularly interesting"
+      },
+      {
+        "type": "crafting",
+        "recipe":"conjurerscookbook:mandrakemorph2",
+        "text":"I have not fully cataloged the extent of its applications, so I am sure many more transmutations are possible aside from the ones shown here."
+      },
+      {
+        "type": "crafting",
+        "recipe":"conjurerscookbook:mandrakemorph6",
+        "text":"One more for good measure"
+      }
+    ]
+}
