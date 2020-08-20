@@ -1,0 +1,22 @@
+{
+  "language.name": "Simplified Chinese",
+  "language.region": "中国（大陆）",
+  "language.code": "zh_cn",
+
+  "itemGroup.conjurerscookbook": "Conjurer's Cookbook",
+  "item.conjurerscookbook.bamboo_curry": "Sweet Bamboo Curry",
+  "item.conjurerscookbook.berry_cream": "Tasty Berry Cream",
+  "item.conjurerscookbook.cake": "Enchanted Chocolate Cake",
+  "item.conjurerscookbook.cookie_tin": "Magic Cookie Tin",
+  "item.conjurerscookbook.chorus": "Chorus Cupcake",
+  "item.conjurerscookbook.mandrake_root": "Mandrake Root",
+
+  "item.conjurerscookbook.neptune_stew": "Neptune's Stew",
+  "item.conjurerscookbook.witchs_stew": "Witch's Soup",
+  "item.conjurerscookbook.sacrifice_stew": "Stew of Sacrifice",
+  "item.conjurerscookbook.undead_delicacy": "Undead Delicacy",
+  "item.conjurerscookbook.veggie_mix": "Roasted Veggie Salad ",
+  "item.conjurerscookbook.bottledmandrake": "Bottled Mandrake",
+
+  "block.conjurerscookbook.mandrake_crop": "Mandrake Seeds"
+}
